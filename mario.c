@@ -8,7 +8,7 @@ int main(void)
     // Solicitar ao usuário a altura da pirâmide
     do
     {
-        printf("Tamanho: ");
+        printf("Tamanho:");
         scanf("%d", &altura);
 
         // Limpar o buffer de entrada em caso de entrada inválida
