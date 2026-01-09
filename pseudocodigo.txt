@@ -1,0 +1,18 @@
+1. INÍCIO
+2. FUNÇÃO principal:
+3.   FAÇA:
+4.     SOLICITAR ao usuário a "Altura" (um número inteiro).
+5.   ENQUANTO (Altura < 1 OU Altura > 8).
+6.
+7.   PARA cada linha 'i' de 1 até Altura (inclusive):
+8.     // Imprimir espaços
+9.     PARA cada espaço 'j' de 1 até (Altura - i):
+10.      IMPRIMIR " ".
+11.
+12.    // Imprimir hashes
+13.    PARA cada hash 'k' de 1 até i:
+14.      IMPRIMIR "#".
+15.
+16.    // Quebra de linha
+17.    IMPRIMIR nova linha.
+18. FIM.
